@@ -1,0 +1,38 @@
+body{
+    direction: rtl;
+}
+html,body{
+	overflow-x: hidden
+}
+@font-face{
+	font-family: 'fr-bold-65';
+	src: url('../fonts/ArbFONTS-Frutiger-LT-Arabic-65-Bold.ttf');
+}
+@font-face{
+	font-family: 'fr-Light-45';
+	src: url('../fonts/ArbFONTS-Frutiger-LT-Arabic-45-Light.ttf');
+}
+@font-face{
+    font-family: "fr-Light-47";
+    src: url('../fonts/ArbFONTS-Frutiger-LT-Arabic-47-Light-Cn.ttf');
+}
+@font-face{
+    font-family: "fr-Roman-55";
+    src: url('../fonts/ArbFONTS-Frutiger-LT-Arabic-55-Roman.ttf');
+}
+@font-face{
+    font-family: "fr-Cn-57";
+    src: url("../fonts/ArbFONTS-Frutiger-LT-Arabic-57-Cn.ttf");
+}
+@font-face{
+    font-family: "fr-Bold-Cn-67";
+    src: url("../fonts/ArbFONTS-Frutiger-LT-Arabic-67-Bold-Cn.ttf");
+}
+@font-face{
+    font-family: "fr-Black-75";
+    src: url("../fonts/ArbFONTS-Frutiger-LT-Arabic-75-Black.ttf");
+}
+@font-face{
+    font-family: "fr-Black-Cn-77";
+    src: url("../fonts/ArbFONTS-Frutiger-LT-Arabic-77-Black-Cn.ttf");
+}
